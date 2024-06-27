@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.menu{
+  width: 10%;
+  height: 100vh;
+  border: 1px solid black;
+
+}
+.menu >ul{
+  text-decoration: none;
+}
